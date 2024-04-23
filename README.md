@@ -17,4 +17,7 @@ Show the result of the calculation to the user
 **Repeat or exit**
 After display the result give the user the option to perform another calculation or exit the program.
 
+![image](https://github.com/myusername86/calculator_task/assets/149319685/9985bac3-d9bc-48f6-9e72-9da197b8f711)
+
+
 
